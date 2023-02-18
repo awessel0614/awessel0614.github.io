@@ -12,6 +12,9 @@ body {
 }
 
 
+img {
+  border: 10px solid green;
+}
 
 .exp-header {
     text-align: center;
